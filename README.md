@@ -1,0 +1,2 @@
+# MyPicGo
+blog图床
